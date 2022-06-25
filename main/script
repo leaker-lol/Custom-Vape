@@ -1,4 +1,4 @@
-local HWIDTable = loadstring(game:HttpGet("https://raw.githubusercontent.com/EZEZEZEZZE/whitelist2.json/main/lua2"))()
+local HWIDTable = loadstring(game:HttpGet("https://https://raw.githubusercontent.com/Trix-decoder/Custom-Vape/main/main/whitelist.json?token=GHSAT0AAAAAABV66GKBFHWU2MTU2WVF46TGYVXSFOQ"))()
 local HWID =(game:GetService("RbxAnalyticsService"):GetClientId())
 for i,v in pairs(HWIDTable) do
 	print(v)
